@@ -1,0 +1,1 @@
+React app using the Wikipedia Api to get the first 5 results of the search term. The search term must be at least 3 characters long.
